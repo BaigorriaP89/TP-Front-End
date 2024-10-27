@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+    background-color: black;
+    color: white;
+   
+}  
+
+form{
+    width: 300px;
+    padding: 30px;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+form div{
+    margin-top: 20px;
+}
+.datos{
+    display: block;
+    padding: 5px;
+    outline: none; /*SACA EL RESALTADO DE SELECCION*/
+    
+}
+label{
+    margin-top:20px;
+}
+
+.botones{
+    display: inline-block;
+    margin-left: 15px;
+    background-color: white;
+
+}
+a{
+    text-decoration: none;
+}
